@@ -14,7 +14,7 @@ CPP Blackjack is a console-based simulation of the classic Blackjack card game. 
 
 ## Installation
 
-To compile and run the project, you will need `g++`, `cmake`, and `googletest` installed. Note that GoogleTest was manually downloaded and included in the `build/_deps` directory due to issues with linking. Follow these steps to set up the project:
+To compile and run the project, you will need `g++`, `cmake`, and `googletest` installed. Note that GoogleTest was manually downloaded and included in the `build/_deps` directory due to issues with linking. I removed the build folder for my online upload of this, if you would like to run my project the way I currently have it programmed, contact me or create an issue for the correct build folder to run this program. Follow these steps to set up the project:
 
 1. Clone the repository to your local machine.
 2. Open a terminal in the root directory of the project.
